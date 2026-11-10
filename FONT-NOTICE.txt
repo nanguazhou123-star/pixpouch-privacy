@@ -1,0 +1,11 @@
+PixPouch Policy SC — page-specific derivative font subsets
+
+Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.
+Licensed under SIL Open Font License 1.1. Complete license: OFL.txt.
+
+Derived from Noto Sans SC, via the application's renamed static Qingtu Sans SC faces.
+These Regular (400) and Bold (700) subsets are renamed PixPouch Policy SC.
+The Reserved Font Name Source is not used as the derivative family name.
+Subsets retain this page's visible text plus ASCII and common punctuation.
+Regenerate subsets and coverage checks whenever visible page text changes.
+Built using existing fontTools 4.67.0; no new dependencies or network access.
